@@ -94,4 +94,4 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - Charts  
 
 
-Covid_Analysis/Images/Column Chart.jpg
+Images/Column Chart.jpg
