@@ -94,3 +94,5 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - Charts  
 
 [Covid_Analysis/Images/Column Chart.jpg](https://github.com/pspancholi/Excel-Project/blob/main/Covid_Analysis/Images/Column%20Chart.jpg)
+
+https://github.com/pspancholi/Excel-Project/blob/main/Covid_Analysis/Images/Combo%20Chart.jpg
