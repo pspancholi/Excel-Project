@@ -93,4 +93,4 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - Conditional Formatting  
   - Charts  
 
-Covid_Analysis/Images/Column Chart.jpg
+[Covid_Analysis/Images/Column Chart.jpg](https://github.com/pspancholi/Excel-Project/blob/main/Covid_Analysis/Images/Column%20Chart.jpg)
