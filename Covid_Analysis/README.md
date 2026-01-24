@@ -94,4 +94,5 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - Charts  
 
 
-Images/Column Chart.jpg
+![Dashboard](images/Column Chart.jpg)
+
