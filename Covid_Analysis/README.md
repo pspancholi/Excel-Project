@@ -85,7 +85,3 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - VLOOKUP & HLOOKUP  
   - Conditional Formatting  
   - Charts & Dashboards  
-
----
-
-## Project Structure
