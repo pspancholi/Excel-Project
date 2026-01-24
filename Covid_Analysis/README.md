@@ -97,5 +97,5 @@ https://github.com/pspancholi/Excel-Project/blob/main/Covid_Analysis/Images/Colu
 
 https://github.com/pspancholi/Excel-Project/blob/main/Covid_Analysis/Images/Combo%20Chart.jpg
 
-
+https://github.com/pspancholi/Excel-Project/blob/main/Covid_Analysis/Images/Pie%20Chart.jpg
 
