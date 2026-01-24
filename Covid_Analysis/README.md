@@ -1,6 +1,13 @@
 # COVID-19 Global — Excel Analysis
 
-## Project Overview
+## Security
+- Formulas and data cells are locked
+- Workbook structure protected
+- File intended for read-only portfolio viewing
+
+---
+
+## Project Overview Security
 This project presents a **COVID-19 Global Dashboard** developed using **Microsoft Excel** to analyze country-wise pandemic data from 2020–2021. The analysis focuses on infection spread, recovery trends, and mortality risk across regions, simulating the role of a **Junior Data Analyst** supporting a public health agency.
 
 ---
