@@ -91,4 +91,4 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - IF / IFS Functions  
   - VLOOKUP & HLOOKUP  
   - Conditional Formatting  
-  - Charts & Dashboards  
+  - Charts  
