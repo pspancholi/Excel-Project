@@ -92,3 +92,5 @@ Insights are documented in the **Brainstorming Reflection** sheet.
   - VLOOKUP & HLOOKUP  
   - Conditional Formatting  
   - Charts  
+
+Covid_Analysis/Images/Column Chart.jpg
