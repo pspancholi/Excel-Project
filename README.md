@@ -183,4 +183,4 @@ These projects demonstrate the ability to:
 
 ---
 
-⭐ If you found this project valuable, consider giving it a star!
+<img width="1410" height="874" alt="image" src="https://github.com/user-attachments/assets/f7f262d9-67a6-45c5-9ad3-b7f9ddbf747f" />
